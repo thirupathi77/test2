@@ -1,0 +1,1 @@
+echo "WEL COME TO THE PRIME"
